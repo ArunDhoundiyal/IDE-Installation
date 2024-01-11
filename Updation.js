@@ -18,4 +18,4 @@ cd ~/ccbp-ide && docker-compose up -d
 To check the latest version, open a terminal inside the ccbp IDE and run the below command
 ccbp version
 
-The latest stable version available is 1.3.3
+Now the latest stable version available is 1.3.3
